@@ -1,0 +1,10 @@
+/* Variables */
+:root {
+    --bg-white: #f3f1f2;
+    --bg-black: #070505;
+    --color-red-primary: #901927;
+}
+
+.primary {
+    color: var(--color-red-primary);
+}
